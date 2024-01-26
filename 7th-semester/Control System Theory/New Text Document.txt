@@ -1,0 +1,2 @@
+b. Simulation with Designed Controller
+The system can be simulated using the designed controller to observe its response. The simulation results can be compared with the response of the original system to evaluate the effectiveness of the controller.
